@@ -9,4 +9,10 @@ public class Test2 {
 		System.out.println("TEST-2 Executed Successfully");
 	}
 	
+	public void test3() {
+		
+		
+		System.out.println("TEST-3 Executed Successfully");
+	}
+	
 }

@@ -9,6 +9,7 @@ public void first() {
 	
 	
 	System.out.println("Test1 executed successfully");
+	syso
 }
 
 @Test	

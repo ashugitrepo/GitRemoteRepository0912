@@ -8,14 +8,14 @@ public class ClassTest {
 public void first() {
 	
 	
-	System.out.println("Test1 executed successfully");
-}
+	System.out.println("FIRST Executed successfully");
+	}
 
 @Test	
 public void Second() {
 	
 	
-	System.out.println("Test2 executed successfully");
+	System.out.println("SECOND executed successfully");
 }
 	
 }
